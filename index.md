@@ -5,3 +5,5 @@
 ##### H5 Header
 ###### H6 Header
 Added Headers using markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
